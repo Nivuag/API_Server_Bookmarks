@@ -1,0 +1,234 @@
+[
+    {
+        "Id": 37,
+        "Name": "Beans",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 38,
+        "Name": "Beans2",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 39,
+        "Name": "Beans3",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 40,
+        "Name": "Beans4",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 41,
+        "Name": "Carrote1",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 42,
+        "Name": "Carrote2",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 43,
+        "Name": "Carrote3",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 44,
+        "Name": "Carrote4",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 45,
+        "Name": "Carrote5",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 46,
+        "Name": "Tomate1",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 47,
+        "Name": "Tomate2",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 48,
+        "Name": "Tomate3",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 2,
+        "Username": "Stéphane Chassé"
+    },
+    {
+        "Id": 49,
+        "Name": "Tomate4",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 6,
+        "Username": "Rachid Kadouche"
+    },
+    {
+        "Id": 50,
+        "Name": "Tomate5",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 6,
+        "Username": "Rachid Kadouche"
+    },
+    {
+        "Id": 51,
+        "Name": "Tomate6",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 6,
+        "Username": "Rachid Kadouche"
+    },
+    {
+        "Id": 52,
+        "Name": "Tomate7",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 6,
+        "Username": "Rachid Kadouche"
+    },
+    {
+        "Id": 53,
+        "Name": "Tomate8",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 6,
+        "Username": "Rachid Kadouche"
+    },
+    {
+        "Id": 54,
+        "Name": "Tomate9",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 6,
+        "Username": "Rachid Kadouche"
+    },
+    {
+        "Id": 55,
+        "Name": "Tomate10",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 56,
+        "Name": "Pomme1",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 57,
+        "Name": "Pomme2",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 58,
+        "Name": "Pomme3",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Légumes",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 59,
+        "Name": "Fève",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 60,
+        "Name": "Fève2",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 61,
+        "Name": "Fève3",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 62,
+        "Name": "Fève4",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 63,
+        "Name": "Fève5",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 64,
+        "Name": "Fève6",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    },
+    {
+        "Id": 65,
+        "Name": "Fève7",
+        "Url": "http://localhost:5000/bookmarks",
+        "Category": "Bean",
+        "UserId": 5,
+        "Username": "Kyle Ross"
+    }
+]
